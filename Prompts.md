@@ -23,7 +23,8 @@ Welcome to the AI usage and prompt log for abtalks-redesign. This document outli
 ### Phase 2: Core Feature Development
 * **Objective:** Build the core logic / main feature ([Short description of your main feature]).
 * **Key Prompt:**
-  > "Write a function/component that handles [specific feature logic] keeping edge cases like [mention an edge case] in mind."
+
+> "I need to build a MERN stack prototype for a 60-day coding challenge app called ABTalks. It needs to be designed for Indian college students who code late at night. The UI must be strictly mobile-first (390px max-width), featuring deep dark mode aesthetics. Include a Landing Page with a CTA, a Dashboard showing streaks and edge cases (like missed days), and a Challenge Day view for submitting proof of work. Give me the folder structure and React components."
 * **AI Output & Actions:** Produced the primary implementation logic.
 * **Human Adjustments:** Refined the variable names and integrated it cleanly with the database schema.
 
@@ -36,7 +37,7 @@ Welcome to the AI usage and prompt log for abtalks-redesign. This document outli
 * **Prompt used to fix:**
   > "I am getting this error: Uncaught SyntaxError: The requested module '/node_modules/.vite/deps/lucide-react.js. 
   fix it
-* **AI Fix:** Suggested adding optional chaining and null checks. Verified and accepted the fix.
+* **AI Fix:** (`AI Solution: Bypassed Vite's aggressive dependency caching by swapping to stable icon exports `Code` and `Briefcase``).
 
 ---
 
