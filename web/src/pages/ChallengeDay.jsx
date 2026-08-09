@@ -10,7 +10,7 @@ export default function ChallengeDay() {
   const [status, setStatus] = useState('idle'); // idle, loading, success
 
   useEffect(() => {
-    fetch(`https://abtalks-api.onrender.com${id}`)
+    fetch(`https://abtalks-api.onrender.com/api/day/${id}`)
       .then(res => res.json())
       .then(data => setTask(data));
   }, [id]);
