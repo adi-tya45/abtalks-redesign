@@ -13,7 +13,7 @@ export default function Dashboard() {
     setLoading(true);
     setErrorMsg(null);
     
-fetch(`https://abtalks-api-xyz.onrender.com/api/user?state=${judgeState}`)
+fetch(`https://abtalks-api.onrender.com/user?state=${judgeState}`)
       .then(res => {
         if (!res.ok) throw new Error("Backend responded with an error");
         return res.json();
