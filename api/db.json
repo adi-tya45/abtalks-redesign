@@ -1,0 +1,761 @@
+{
+  "userStates": {
+    "active": {
+      "name": "Alex",
+      "streak": 12,
+      "progress": 20,
+      "standing": "Silver Tier",
+      "history": [
+        {
+          "day": 1,
+          "completed": true
+        },
+        {
+          "day": 2,
+          "completed": true
+        },
+        {
+          "day": 3,
+          "completed": true
+        },
+        {
+          "day": 4,
+          "completed": true
+        },
+        {
+          "day": 5,
+          "completed": true
+        },
+        {
+          "day": 6,
+          "completed": true
+        },
+        {
+          "day": 7,
+          "completed": true
+        },
+        {
+          "day": 8,
+          "completed": true
+        },
+        {
+          "day": 9,
+          "completed": true
+        },
+        {
+          "day": 10,
+          "completed": true
+        },
+        {
+          "day": 11,
+          "completed": true
+        },
+        {
+          "day": 12,
+          "completed": false
+        },
+        {
+          "day": 13,
+          "completed": false
+        },
+        {
+          "day": 14,
+          "completed": false
+        },
+        {
+          "day": 15,
+          "completed": false
+        },
+        {
+          "day": 16,
+          "completed": false
+        },
+        {
+          "day": 17,
+          "completed": false
+        },
+        {
+          "day": 18,
+          "completed": false
+        },
+        {
+          "day": 19,
+          "completed": false
+        },
+        {
+          "day": 20,
+          "completed": false
+        },
+        {
+          "day": 21,
+          "completed": false
+        },
+        {
+          "day": 22,
+          "completed": false
+        },
+        {
+          "day": 23,
+          "completed": false
+        },
+        {
+          "day": 24,
+          "completed": false
+        },
+        {
+          "day": 25,
+          "completed": false
+        },
+        {
+          "day": 26,
+          "completed": false
+        },
+        {
+          "day": 27,
+          "completed": false
+        },
+        {
+          "day": 28,
+          "completed": false
+        },
+        {
+          "day": 29,
+          "completed": false
+        },
+        {
+          "day": 30,
+          "completed": false
+        },
+        {
+          "day": 31,
+          "completed": false
+        },
+        {
+          "day": 32,
+          "completed": false
+        },
+        {
+          "day": 33,
+          "completed": false
+        },
+        {
+          "day": 34,
+          "completed": false
+        },
+        {
+          "day": 35,
+          "completed": false
+        },
+        {
+          "day": 36,
+          "completed": false
+        },
+        {
+          "day": 37,
+          "completed": false
+        },
+        {
+          "day": 38,
+          "completed": false
+        },
+        {
+          "day": 39,
+          "completed": false
+        },
+        {
+          "day": 40,
+          "completed": false
+        },
+        {
+          "day": 41,
+          "completed": false
+        },
+        {
+          "day": 42,
+          "completed": false
+        },
+        {
+          "day": 43,
+          "completed": false
+        },
+        {
+          "day": 44,
+          "completed": false
+        },
+        {
+          "day": 45,
+          "completed": false
+        },
+        {
+          "day": 46,
+          "completed": false
+        },
+        {
+          "day": 47,
+          "completed": false
+        },
+        {
+          "day": 48,
+          "completed": false
+        },
+        {
+          "day": 49,
+          "completed": false
+        },
+        {
+          "day": 50,
+          "completed": false
+        },
+        {
+          "day": 51,
+          "completed": false
+        },
+        {
+          "day": 52,
+          "completed": false
+        },
+        {
+          "day": 53,
+          "completed": false
+        },
+        {
+          "day": 54,
+          "completed": false
+        },
+        {
+          "day": 55,
+          "completed": false
+        },
+        {
+          "day": 56,
+          "completed": false
+        },
+        {
+          "day": 57,
+          "completed": false
+        },
+        {
+          "day": 58,
+          "completed": false
+        },
+        {
+          "day": 59,
+          "completed": false
+        },
+        {
+          "day": 60,
+          "completed": false
+        }
+      ]
+    },
+    "firstDay": {
+      "name": "Newbie",
+      "streak": 0,
+      "progress": 0,
+      "standing": "Unranked",
+      "history": [
+        {
+          "day": 1,
+          "completed": false
+        },
+        {
+          "day": 2,
+          "completed": false
+        },
+        {
+          "day": 3,
+          "completed": false
+        },
+        {
+          "day": 4,
+          "completed": false
+        },
+        {
+          "day": 5,
+          "completed": false
+        },
+        {
+          "day": 6,
+          "completed": false
+        },
+        {
+          "day": 7,
+          "completed": false
+        },
+        {
+          "day": 8,
+          "completed": false
+        },
+        {
+          "day": 9,
+          "completed": false
+        },
+        {
+          "day": 10,
+          "completed": false
+        },
+        {
+          "day": 11,
+          "completed": false
+        },
+        {
+          "day": 12,
+          "completed": false
+        },
+        {
+          "day": 13,
+          "completed": false
+        },
+        {
+          "day": 14,
+          "completed": false
+        },
+        {
+          "day": 15,
+          "completed": false
+        },
+        {
+          "day": 16,
+          "completed": false
+        },
+        {
+          "day": 17,
+          "completed": false
+        },
+        {
+          "day": 18,
+          "completed": false
+        },
+        {
+          "day": 19,
+          "completed": false
+        },
+        {
+          "day": 20,
+          "completed": false
+        },
+        {
+          "day": 21,
+          "completed": false
+        },
+        {
+          "day": 22,
+          "completed": false
+        },
+        {
+          "day": 23,
+          "completed": false
+        },
+        {
+          "day": 24,
+          "completed": false
+        },
+        {
+          "day": 25,
+          "completed": false
+        },
+        {
+          "day": 26,
+          "completed": false
+        },
+        {
+          "day": 27,
+          "completed": false
+        },
+        {
+          "day": 28,
+          "completed": false
+        },
+        {
+          "day": 29,
+          "completed": false
+        },
+        {
+          "day": 30,
+          "completed": false
+        },
+        {
+          "day": 31,
+          "completed": false
+        },
+        {
+          "day": 32,
+          "completed": false
+        },
+        {
+          "day": 33,
+          "completed": false
+        },
+        {
+          "day": 34,
+          "completed": false
+        },
+        {
+          "day": 35,
+          "completed": false
+        },
+        {
+          "day": 36,
+          "completed": false
+        },
+        {
+          "day": 37,
+          "completed": false
+        },
+        {
+          "day": 38,
+          "completed": false
+        },
+        {
+          "day": 39,
+          "completed": false
+        },
+        {
+          "day": 40,
+          "completed": false
+        },
+        {
+          "day": 41,
+          "completed": false
+        },
+        {
+          "day": 42,
+          "completed": false
+        },
+        {
+          "day": 43,
+          "completed": false
+        },
+        {
+          "day": 44,
+          "completed": false
+        },
+        {
+          "day": 45,
+          "completed": false
+        },
+        {
+          "day": 46,
+          "completed": false
+        },
+        {
+          "day": 47,
+          "completed": false
+        },
+        {
+          "day": 48,
+          "completed": false
+        },
+        {
+          "day": 49,
+          "completed": false
+        },
+        {
+          "day": 50,
+          "completed": false
+        },
+        {
+          "day": 51,
+          "completed": false
+        },
+        {
+          "day": 52,
+          "completed": false
+        },
+        {
+          "day": 53,
+          "completed": false
+        },
+        {
+          "day": 54,
+          "completed": false
+        },
+        {
+          "day": 55,
+          "completed": false
+        },
+        {
+          "day": 56,
+          "completed": false
+        },
+        {
+          "day": 57,
+          "completed": false
+        },
+        {
+          "day": 58,
+          "completed": false
+        },
+        {
+          "day": 59,
+          "completed": false
+        },
+        {
+          "day": 60,
+          "completed": false
+        }
+      ]
+    },
+    "missedDay": {
+      "name": "Hustler",
+      "streak": 0,
+      "progress": 25,
+      "standing": "Needs Recovery",
+      "streakFreezeAvailable": true,
+      "history": [
+        {
+          "day": 1,
+          "completed": true
+        },
+        {
+          "day": 2,
+          "completed": true
+        },
+        {
+          "day": 3,
+          "completed": true
+        },
+        {
+          "day": 4,
+          "completed": true
+        },
+        {
+          "day": 5,
+          "completed": true
+        },
+        {
+          "day": 6,
+          "completed": true
+        },
+        {
+          "day": 7,
+          "completed": true
+        },
+        {
+          "day": 8,
+          "completed": true
+        },
+        {
+          "day": 9,
+          "completed": true
+        },
+        {
+          "day": 10,
+          "completed": true
+        },
+        {
+          "day": 11,
+          "completed": true
+        },
+        {
+          "day": 12,
+          "completed": true
+        },
+        {
+          "day": 13,
+          "completed": true
+        },
+        {
+          "day": 14,
+          "completed": false
+        },
+        {
+          "day": 15,
+          "completed": false
+        },
+        {
+          "day": 16,
+          "completed": false
+        },
+        {
+          "day": 17,
+          "completed": false
+        },
+        {
+          "day": 18,
+          "completed": false
+        },
+        {
+          "day": 19,
+          "completed": false
+        },
+        {
+          "day": 20,
+          "completed": false
+        },
+        {
+          "day": 21,
+          "completed": false
+        },
+        {
+          "day": 22,
+          "completed": false
+        },
+        {
+          "day": 23,
+          "completed": false
+        },
+        {
+          "day": 24,
+          "completed": false
+        },
+        {
+          "day": 25,
+          "completed": false
+        },
+        {
+          "day": 26,
+          "completed": false
+        },
+        {
+          "day": 27,
+          "completed": false
+        },
+        {
+          "day": 28,
+          "completed": false
+        },
+        {
+          "day": 29,
+          "completed": false
+        },
+        {
+          "day": 30,
+          "completed": false
+        },
+        {
+          "day": 31,
+          "completed": false
+        },
+        {
+          "day": 32,
+          "completed": false
+        },
+        {
+          "day": 33,
+          "completed": false
+        },
+        {
+          "day": 34,
+          "completed": false
+        },
+        {
+          "day": 35,
+          "completed": false
+        },
+        {
+          "day": 36,
+          "completed": false
+        },
+        {
+          "day": 37,
+          "completed": false
+        },
+        {
+          "day": 38,
+          "completed": false
+        },
+        {
+          "day": 39,
+          "completed": false
+        },
+        {
+          "day": 40,
+          "completed": false
+        },
+        {
+          "day": 41,
+          "completed": false
+        },
+        {
+          "day": 42,
+          "completed": false
+        },
+        {
+          "day": 43,
+          "completed": false
+        },
+        {
+          "day": 44,
+          "completed": false
+        },
+        {
+          "day": 45,
+          "completed": false
+        },
+        {
+          "day": 46,
+          "completed": false
+        },
+        {
+          "day": 47,
+          "completed": false
+        },
+        {
+          "day": 48,
+          "completed": false
+        },
+        {
+          "day": 49,
+          "completed": false
+        },
+        {
+          "day": 50,
+          "completed": false
+        },
+        {
+          "day": 51,
+          "completed": false
+        },
+        {
+          "day": 52,
+          "completed": false
+        },
+        {
+          "day": 53,
+          "completed": false
+        },
+        {
+          "day": 54,
+          "completed": false
+        },
+        {
+          "day": 55,
+          "completed": false
+        },
+        {
+          "day": 56,
+          "completed": false
+        },
+        {
+          "day": 57,
+          "completed": false
+        },
+        {
+          "day": 58,
+          "completed": false
+        },
+        {
+          "day": 59,
+          "completed": false
+        },
+        {
+          "day": 60,
+          "completed": false
+        }
+      ]
+    },
+    "empty": null
+  },
+  "challenges": {
+    "12": {
+      "title": "Build an API Rate Limiter",
+      "description": "Build a reusable API rate limiter that prevents clients from overwhelming a backend service. Implement a defined request limit within a time window, track usage per client, and return an appropriate response.",
+      "requirements": [
+        "Implement a rate-limiting mechanism tracking requests per IP.",
+        "Return a 429 Too Many Requests HTTP response when limits are hit.",
+        "Document configuration options and edge cases in the README."
+      ]
+    }
+  }
+}
